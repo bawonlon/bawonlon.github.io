@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>blog on 高雄長庚泌尿科 吳彥廷醫師</title>
-    <link>https://bawonlon.github.io/blog/</link>
-    <description>Recent content in blog on 高雄長庚泌尿科 吳彥廷醫師</description>
+    <title>膀胱過動症 on 高雄長庚泌尿科 吳彥廷醫師</title>
+    <link>https://bawonlon.github.io/tags/%E8%86%80%E8%83%B1%E9%81%8E%E5%8B%95%E7%97%87/</link>
+    <description>Recent content in 膀胱過動症 on 高雄長庚泌尿科 吳彥廷醫師</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Tue, 29 Oct 2019 13:49:23 +0600</lastBuildDate>
-    <atom:link href="https://bawonlon.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 Nov 2023 17:07:47 +0800</lastBuildDate>
+    <atom:link href="https://bawonlon.github.io/tags/%E8%86%80%E8%83%B1%E9%81%8E%E5%8B%95%E7%97%87/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>膀胱過動症，藥物效果不佳怎麼辦？</title>
       <link>https://bawonlon.github.io/blog/0001_refractory_oab/</link>
@@ -18,22 +18,6 @@
 難道要直接建議患者接受進一步侵入性的檢查或治療嗎?
 我們可以試著重新替患者梳理治療過程，找出可能的治療方式。
 1. 確認行為治療的執行程度： 生活習慣是否有試著調整? 是否了解如何進行膀胱訓練與骨盆底肌肉運動? 2. 是否尚未排除其他應治療的疾病? 常見疾病如下： 泌尿道感染、結石、或腫瘤 女性更年期合併萎縮性陰道炎 骨盆腔器官脫垂 糖尿病相關的多尿症 3.</description>
-    </item>
-    <item>
-      <title>您好，我是吳彥廷醫師</title>
-      <link>https://bawonlon.github.io/blog/0000_introduction/</link>
-      <pubDate>Fri, 17 Nov 2023 05:12:26 +0800</pubDate>
-      <guid>https://bawonlon.github.io/blog/0000_introduction/</guid>
-      <description>您好，我是吳彥廷醫師
-目前任職於高雄長庚紀念醫院
-希望能在泌尿領域為大家服務
-達文西泌尿腫瘤手術
-單孔腹腔鏡疝氣手術
-攝護腺雷射手術
-軟式輸尿管鏡取石手術
-包皮手術
-無痛結紮
-男性更年期</description>
     </item>
   </channel>
 </rss>
