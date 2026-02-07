@@ -1095,6 +1095,13 @@
   
     
       <url>
+        <loc>https://wu.clinic/services/</loc>
+        <lastmod>0001-01-01T00:00:00Z</lastmod>
+      </url>
+    
+  
+    
+      <url>
         <loc>https://wu.clinic/tags/%E6%82%A3%E8%80%85%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8Cfaq/</loc>
         <lastmod>0001-01-01T00:00:00Z</lastmod>
       </url>
@@ -1103,6 +1110,13 @@
     
       <url>
         <loc>https://wu.clinic/tags/%E6%B0%B4%E8%92%B8%E6%B0%A3%E6%B6%88%E8%9E%8D%E8%A1%93rezum/</loc>
+        <lastmod>0001-01-01T00:00:00Z</lastmod>
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://wu.clinic/services/rezum-kaohsiung/</loc>
         <lastmod>0001-01-01T00:00:00Z</lastmod>
       </url>
     
