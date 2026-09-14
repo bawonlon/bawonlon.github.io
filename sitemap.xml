@@ -1102,6 +1102,13 @@
   
     
       <url>
+        <loc>https://wu.clinic/guides/</loc>
+        <lastmod>0001-01-01T00:00:00Z</lastmod>
+      </url>
+    
+  
+    
+      <url>
         <loc>https://wu.clinic/services/</loc>
         <lastmod>0001-01-01T00:00:00Z</lastmod>
       </url>
@@ -1110,6 +1117,13 @@
     
       <url>
         <loc>https://wu.clinic/tags/%E6%82%A3%E8%80%85%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8Cfaq/</loc>
+        <lastmod>0001-01-01T00:00:00Z</lastmod>
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://wu.clinic/guides/bph/</loc>
         <lastmod>0001-01-01T00:00:00Z</lastmod>
       </url>
     
