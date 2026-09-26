@@ -1067,20 +1067,6 @@
   
     
       <url>
-        <loc>https://wu.clinic/blog/0000_introduction/</loc>
-        <lastmod>2023-11-17T05:12:26&#43;08:00</lastmod>
-      </url>
-    
-  
-    
-      <url>
-        <loc>https://wu.clinic/about/</loc>
-        <lastmod>2019-10-29T13:49:23&#43;06:00</lastmod>
-      </url>
-    
-  
-    
-      <url>
         <loc>https://wu.clinic/blog/</loc>
         <lastmod>2019-10-29T13:49:23&#43;06:00</lastmod>
       </url>
@@ -1089,6 +1075,13 @@
     
       <url>
         <loc>https://wu.clinic/search/</loc>
+        <lastmod>2019-10-29T13:49:23&#43;06:00</lastmod>
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://wu.clinic/about/</loc>
         <lastmod>2019-10-29T13:49:23&#43;06:00</lastmod>
       </url>
     
