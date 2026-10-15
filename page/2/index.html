@@ -187,7 +187,24 @@
 
 
 
-<section class="section-sm topic-navigation">
+<a href="#topics"
+   class="homepage-scroll-hint"
+   aria-label="向下捲動查看更多內容">
+  <svg width="24" height="24"
+       viewBox="0 0 24 24"
+       fill="none"
+       stroke="currentColor"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       aria-hidden="true">
+    <path d="M12 5v14M5 12l7 7 7-7"/>
+  </svg>
+</a>
+
+
+
+<section id="topics" class="section-sm topic-navigation">
   <div class="container">
 
     <div class="text-center mb-5">
@@ -679,6 +696,27 @@
 </section>
 
 
+
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    const scrollHint = document.querySelector('.homepage-scroll-hint');
+  
+    if (!scrollHint) return;
+  
+    function updateScrollHint() {
+      if (window.scrollY > 40) {
+        scrollHint.classList.add('is-hidden');
+      } else {
+        scrollHint.classList.remove('is-hidden');
+      }
+    }
+  
+    window.addEventListener('scroll', updateScrollHint, { passive: true });
+  
+    updateScrollHint();
+  });
+  </script>
+  
 
 
 <footer class="text-capitalize">
